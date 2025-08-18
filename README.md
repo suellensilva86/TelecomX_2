@@ -14,7 +14,7 @@ Foram aplicados dois modelos principais: **Regressão Logística** e **Random Fo
 
 ---
 ## 📂 Estrutura do Projeto
-- `notebook.ipynb` → Notebook principal com todo o código.
+- `TelecomX_2.ipynb` → Notebook principal com todo o código.
 - `README.md` → Documentação do projeto.
 
 ---
